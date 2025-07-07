@@ -41,17 +41,17 @@ dar um troço "               <br/>
 
 # Atividade 03
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
-   Movimento de Partículas</a>
+<ul><li><a href=''> 
+   Sklearn - Regressão - Funções</a>
    </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
-      Classe Partícula </a>
+   <li> <a href=''>
+    TensorFlor - Regressão - Funções</a>
    </li>
 </ul>
 
 # Atividade 04
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+<ul><li><a href='#'> 
    Aplicação de  Runge-Kutta</a>
    </li>
   
@@ -59,10 +59,10 @@ dar um troço "               <br/>
 
 # Atividade 05
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+<ul><li><a href='#'> 
    Redes Neurais aplicado ao Ising Model</a>
    </li>
-   <li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   <li><a href='#'> 
    Redes Neurais aplicado ao Modelo de Heisenberg</a>
    </li>
   
