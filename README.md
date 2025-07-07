@@ -15,35 +15,54 @@ dar um troço "               <br/>
 # atividades :
 <hr>
 # Atividade 01   
-<b> miner(mineração) </b> <br />   
+<b> Implementações </b> <br />   
 <ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
-   miner/enem_2019-menores_14 </a>
+   Evolução Simples de Sistemas Dinâmicos </a>
    </li>
    <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
-      miner/enem_2019-uf_ce </a>
+      Minimização de Funções </a>
    </li>
    <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-uf_ce.ipynb'>
-      miner/enem_2019</a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019.ipynb'>
-      miner/enem_2019-cidade </a>
+      Redes Neurais Resolvendo XOR</a>
    </li>
 </ul>
 
-<b> prepare(preparação) </b> <br />   
-<ul><li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/pero_vaz_caminha.ipynb'>
-          prepare/pero_vaz_caminha.ipynb</a>
+# Atividade 02 
+<b> Implementações </b> <br />   
+<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   Movimento de Partículas</a>
    </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o.ipynb'>
-      poemas_da_colonização.ipynb </a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o_salvador.ipynb'>
-      poemas_da_colonização_salvador.ipynb </a>
+   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
+      Classe Partícula </a>
    </li>
 </ul>
-<b> view(visualização) </b> <br />   
-<ul><li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/view/Enem_Faltas.ipynb'>
-   Enem_Faltas
-   </a>
+
+# Atividade 03
+<b> Implementações </b> <br />   
+<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   Movimento de Partículas</a>
+   </li>
+   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
+      Classe Partícula </a>
    </li>
 </ul>
+
+# Atividade 04
+<b> Implementações </b> <br />   
+<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   Aplicação de  Runge-Kutta</a>
+   </li>
+  
+</ul>
+
+# Atividade 05
+<b> Implementações </b> <br />   
+<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   Redes Neurais aplicado ao Ising Model</a>
+   </li>
+   <li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   Redes Neurais aplicado ao Modelo de Heisenberg</a>
+   </li>
+  
+</ul>
+
