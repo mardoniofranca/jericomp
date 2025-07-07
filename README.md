@@ -31,10 +31,10 @@ dar um troço "               <br/>
 
 # Atividade 02 
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade02/movimento_particula.ipynb'> 
    Movimento de Partículas</a>
    </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
+   <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade02/particula.py'>
       Classe Partícula </a>
    </li>
 </ul>
