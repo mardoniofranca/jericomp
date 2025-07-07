@@ -18,9 +18,7 @@ dar um troço "               <br/>
 # Atividade 01   
 
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-1-intro_evolucao_simples_sistemas_dinamicos.ipynb'> 
-
-   Evolução Simples de Sistemas Dinâmicos </a>
+<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-1-intro_evolucao_simples_sistemas_dinamicos.ipynb'> Evolução Simples de Sistemas Dinâmicos </a>
    </li>
    <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-2-intro_min_funcoes.ipynb'>
       Minimização de Funções </a>
