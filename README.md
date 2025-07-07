@@ -18,13 +18,15 @@ dar um troço "               <br/>
 # Atividade 01   
 
 <b> Implementações </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-1-intro_evolucao_simples_sistemas_dinamicos.ipynb'> 
+
    Evolução Simples de Sistemas Dinâmicos </a>
    </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
+   <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-2-intro_min_funcoes.ipynb'>
       Minimização de Funções </a>
+     
    </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-uf_ce.ipynb'>
+   <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-3-redes_neurais_resolvendo_XOR.ipynb'>
       Redes Neurais Resolvendo XOR</a>
    </li>
 </ul>
