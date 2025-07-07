@@ -12,9 +12,11 @@ dar um troço "               <br/>
 
 "no pão de açúcar/de cada dia/dai-nos senhor/a poesia/de cada dia
 
-# atividades :
+# Atividades :
 <hr>
+
 # Atividade 01   
+
 <b> Implementações </b> <br />   
 <ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
    Evolução Simples de Sistemas Dinâmicos </a>
