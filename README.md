@@ -41,10 +41,10 @@ dar um troço "               <br/>
 
 # Atividade 03
 <b> Implementações </b> <br />   
-<ul><li><a href=''> 
+<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade03/sklearn.ipynb'> 
    Sklearn - Regressão - Funções</a>
    </li>
-   <li> <a href=''>
+   <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade03/tensorflow.ipynb'>
     TensorFlor - Regressão - Funções</a>
    </li>
 </ul>
