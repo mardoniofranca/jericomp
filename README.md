@@ -24,8 +24,12 @@ dar um troço "               <br/>
       Minimização de Funções </a>
      
    </li>
+
    <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/1-3-redes_neurais_resolvendo_XOR.ipynb'>
       Redes Neurais Resolvendo XOR</a>
+   </li>
+    <li> <a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade01/-4-caminho-aleatorio.ipynb'>
+      Caminho Aleatório</a>
    </li>
 </ul>
 
