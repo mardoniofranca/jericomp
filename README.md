@@ -63,7 +63,7 @@ dar um troço "               <br/>
 
 # Atividade 05
 <b> Implementações </b> <br />   
-<ul><li><a href='http://localhost:8888/notebooks/jericomp/atividade05/ising_model.ipynb'> 
+<ul><li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade05/ising_model.ipynb'> 
    Redes Neurais aplicado ao Ising Model</a>
    </li>
    <li><a href='https://github.com/mardoniofranca/jericomp/blob/main/atividade05/gs-heisenberg.ipynb'> 
@@ -72,3 +72,4 @@ dar um troço "               <br/>
   
 </ul>
 
+https://github.com/mardoniofranca/jericomp/blob/main/atividade05/ising_model.ipynb
