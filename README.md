@@ -71,5 +71,3 @@ dar um troço "               <br/>
    </li>
   
 </ul>
-
-https://github.com/mardoniofranca/jericomp/blob/main/atividade05/ising_model.ipynb
